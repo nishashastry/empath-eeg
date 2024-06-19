@@ -1,2 +1,2 @@
 # EmpathEEG
-Prototype for an empathatic chatbot that tunes responses to the user's emotional state detected via EEG!
+Prototype for an empathetic AI chatbot that adjusts connotations based on user's emotional state using EEG signals & OpenAI APIs
